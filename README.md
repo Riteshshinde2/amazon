@@ -1,4 +1,6 @@
+
 # amazon
+![Screenshot (34)](https://github.com/Riteshshinde2/amazon/assets/155972900/a8b2bb86-3606-4440-923d-df1c99a04397)
 
 
 Amazon, founded by Jeff Bezos in 1994, has grown from an online bookstore
